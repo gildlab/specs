@@ -28,4 +28,5 @@ this document are already handling.
 | ---                |----------------------------|
 | 0xff688a46f9cf4594 | Prefixes oa meta documents |
 | 0xffa8e8a9b9cf4a31 | Prefixes oa schemas        |
-| 0xffc47a6299e8a911 | Prefixes oa information    |
+| 0xffc47a6299e8a911 | Prefixes oa structure      |
+| 0xff9fae3cc645f463 | Prefixes oa Hash list      |
