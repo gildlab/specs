@@ -30,3 +30,4 @@ this document are already handling.
 | 0xffa8e8a9b9cf4a31 | Prefixes oa schemas        |
 | 0xffc47a6299e8a911 | Prefixes oa structure      |
 | 0xff9fae3cc645f463 | Prefixes oa Hash list      |
+| 0xff8cd2927c8c86cb | Prefixes oa Token image    |
